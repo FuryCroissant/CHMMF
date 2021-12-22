@@ -116,4 +116,3 @@ plt.xlabel('x, cм')
 plt.ylabel('U, ед. температуры')
 plt.grid()
 plt.show()
-
